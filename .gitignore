@@ -18,10 +18,10 @@ hs_err_pid*
 
 # idea specific
 .idea/*
-
-
 .classpath
 *.log
-effective.pom
 *.iml
+
+# Maven
+effective.pom
 
